@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: GEMIBRA
 
 plugins:
     - search
@@ -7,7 +7,4 @@ plugins:
 
 theme:
   name: material
-
-nav:
-  - Home: home.md
-  - Data: data.md
+    

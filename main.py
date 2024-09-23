@@ -6,7 +6,6 @@ import math
 import yaml
 import os
 import csv
-import pandas as pd
 import json
 
 def define_env(env):
