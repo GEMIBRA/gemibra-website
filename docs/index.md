@@ -20,9 +20,9 @@ Nosso foco está em compreender a diversidade genômica de micobactérias no Bra
 ## Visão Geral das Micobactérias
 As micobactérias englobam mais de 190 espécies, divididas em três grupos principais:
 
-1.	Complexo Mycobacterium tuberculosis (CMTB) – O principal responsável pela tuberculose em humanos e animais.
+1.	Complexo _Mycobacterium tuberculosis_ (CMTB) – O principal responsável pela tuberculose em humanos e animais.
 2.	Micobactérias Não Causadoras de Tuberculose (MNT) – Presentes em diversos ambientes, podendo causar infecções oportunistas conhecidas como micobacterioses.
-3.	Mycobacterium leprae e Mycobacterium lepromatosis – Os principais causadores da hanseníase, doença crônica que afeta pele, nervos e outros tecidos.
+3.	_Mycobacterium leprae_ e _Mycobacterium lepromatosis_ – Os principais causadores da hanseníase, doença crônica que afeta pele, nervos e outros tecidos.
 
 Embora o gênero Mycobacterium tenha sido divido em cinco gêneros em 2018 (Mycobacterium; Mycolicibacter; Mycolicibacillus; Mycolicibacterium; Mycobacteroides) (Gupta et al., 2018), ele fora novamente reclassificado como apenas Mycobacterium em 2021, sendo ambas as classificações aceitas pela norma taxonômica (Conor et al., 2021).
 
