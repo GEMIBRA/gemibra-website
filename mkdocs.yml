@@ -1,0 +1,13 @@
+site_name: My Docs
+
+plugins:
+    - search
+    - macros
+    # - table-reader
+
+theme:
+  name: material
+
+nav:
+  - Home: home.md
+  - Data: data.md
