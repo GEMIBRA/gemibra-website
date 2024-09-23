@@ -16,12 +16,10 @@ hide:
   </thead>
   <tbody></tbody>
 </table>
-  
 
-
-<link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.7/b-3.1.2/b-colvis-3.1.2/date-1.5.4/sb-1.8.0/datatables.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/v/dt/jq-3.7.0/jszip-3.10.1/dt-2.1.7/b-3.1.2/b-colvis-3.1.2/b-html5-3.1.2/date-1.5.4/sb-1.8.0/datatables.min.css" rel="stylesheet">
  
-<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.7/b-3.1.2/b-colvis-3.1.2/date-1.5.4/sb-1.8.0/datatables.min.js"></script>
+<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/jszip-3.10.1/dt-2.1.7/b-3.1.2/b-colvis-3.1.2/b-html5-3.1.2/date-1.5.4/sb-1.8.0/datatables.min.js"></script>  
 
 <script>
   $(document).ready(function() {
@@ -41,6 +39,11 @@ hide:
                   {
                       extend: 'colvis',
                       postfixButtons: ['colvisRestore']
+                  },
+                  {
+                    extend: 'excelHtml5',
+                    autoFilter: true,
+                    sheetName: 'Exported data'
                   }
               ]
           }
