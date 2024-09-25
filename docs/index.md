@@ -41,3 +41,5 @@ Nosso banco de dados fornece acesso público a genomas do CMTB e futuramente inc
 Se você deseja contribuir com o projeto ou tem dúvidas, envie-nos uma mensagem:
 **E-mail**: projetogemibra@gmail.com
  
+<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
