@@ -30,10 +30,10 @@ Os membros do CMTB podem ser interpretados como ecotipos, subespécies ou até m
 O grupo das Micobactérias Não Causadoras de Tuberculose (MNT) é o mais extenso, englobando atualmente mais de 140 espécies. Essas micobactérias são organismos de vida livre, amplamente distribuídos no ambiente, e podem causar infecções oportunistas conhecidas como micobacterioses. Essas infecções podem ser facilmente confundidas com tuberculose, seja pulmonar ou extrapulmonar, o que representa um grande desafio tanto para o diagnóstico quanto para o tratamento clínico.
 As espécies M. leprae e M. lepromatosis são os principais agentes etiológicos da hanseníase, uma doença infecciosa crônica que afeta a pele, nervos e outros tecidos. Essas espécies não podem ser cultivadas em meios artificiais, pois precisam de células hospedeiras para crescer. Além disso, seu crescimento é extremamente lento, demorando anos para formar lesões visíveis.
 
-## Banco de Dados GEMIBRA (Atualização: 20 de julho de 2024)
+## Banco de Dados GEMIBRA (Atualização: 04 de abril de 2026)
 Nosso banco de dados fornece acesso público a genomas do CMTB e futuramente incluirá dados sobre MNT e M. leprae.
 
-* **CMTB**: 2999 genomas 
+* **CMTB**: 2580 genomas 
 * **MNT**: Em andamento
 * ***M. leprae***: Em construção
 
