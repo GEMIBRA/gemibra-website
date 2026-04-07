@@ -21,7 +21,7 @@ def define_env(env):
     @env.macro
     def get_table_headers():
         print(env.project_dir)
-        d = env.project_dir+"/docs/GEMIBRA_2300_V2_19_Sep_2024.csv"
+        d = env.project_dir+"/docs/GEMIBRA_2580_V2_07_Apr_2026.csv"
         # d = env.project_dir+"/docs/test.csv"
         reader = csv.DictReader(open(d))
         headers = reader.fieldnames
@@ -30,7 +30,7 @@ def define_env(env):
 
     @env.macro
     def get_table_rows():
-        d = env.project_dir+"/docs/GEMIBRA_2300_V2_19_Sep_2024.csv"
+        d = env.project_dir+"/docs/GEMIBRA_2580_V2_07_Apr_2026.csv"
         print(d)
         # d = env.project_dir+"/docs/test.csv"
         data = []
