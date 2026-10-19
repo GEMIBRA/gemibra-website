@@ -5,6 +5,12 @@ plugins:
     - macros
     # - table-reader
 
+nav:
+  - Início: index.md
+  - Dados: data.md
+  - Informações Importantes (PT): informacoes-importantes-pt.md
+  - Important Information (EN): important-information-en.md
+
 theme:
   name: material
     
