@@ -6,10 +6,8 @@ plugins:
     # - table-reader
 
 nav:
-  - Início: index.md
-  - Dados: data.md
-  - Informações Importantes (PT): informacoes-importantes-pt.md
-  - Important Information (EN): important-information-en.md
+  - Início / Home: index.md
+  - Dados / Data: data.md
 
 theme:
   name: material
