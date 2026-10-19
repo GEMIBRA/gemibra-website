@@ -4,10 +4,9 @@ hide:
 ---
 
 
-# Dados / Data
+# Dados
 
-Use os filtros e a busca para explorar os registros genômicos.  
-Use filters and search to explore genomic records.
+Use os filtros e a busca para explorar os registros genômicos.
 
 <table>
   <thead>

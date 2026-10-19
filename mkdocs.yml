@@ -6,9 +6,22 @@ plugins:
     # - table-reader
 
 nav:
-  - Início / Home: index.md
-  - Dados / Data: data.md
+  - Início: index.md
+  - Dados: data.md
+  - English:
+      - Home: en/index.md
+      - Data: en/data.md
 
 theme:
   name: material
+  language: pt-BR
+
+extra:
+  alternate:
+    - name: Português
+      link: /
+      lang: pt-BR
+    - name: English
+      link: /en/
+      lang: en
     
