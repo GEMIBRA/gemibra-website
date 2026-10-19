@@ -8,9 +8,6 @@ plugins:
 nav:
   - Início: index.md
   - Dados: data.md
-  - English:
-      - Home: en/index.md
-      - Data: en/data.md
 
 theme:
   name: material
