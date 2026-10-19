@@ -4,7 +4,9 @@ hide:
 ---
 
 
-# Data
+# Dados
+
+Use os filtros e a busca para explorar os registros genômicos.
 
 <table>
   <thead>
