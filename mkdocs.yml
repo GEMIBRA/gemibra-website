@@ -1,27 +1,29 @@
 site_name: GEMIBRA
+site_url: https://gemibra.github.io/gemibra-website/
 
 plugins:
-    - search
-    - macros
-    # - table-reader
+  - search
+  - macros
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: pt
+          default: true
+          name: Português
+          build: true
+          link: /pt/
+        - locale: en
+          name: English
+          build: true
+          link: /en/
+          nav_translations:
+            Início: Home
+            Dados: Data
 
 nav:
   - Início: index.md
   - Dados: data.md
-  - English:
-      - Home: en/index.md
-      - Data: en/data.md
 
 theme:
   name: material
-  language: pt-BR
-
-extra:
-  alternate:
-    - name: Português
-      link: /
-      lang: pt-BR
-    - name: English
-      link: /en/
-      lang: en
-    
+  language: pt

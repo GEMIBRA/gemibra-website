@@ -1,7 +1,7 @@
 # **Ge**nomes of **My**cobacteria in **Bra**zil
 ## GEMIBRA v.2.0
 
-![](../logo.png)
+![](logo.png)
 
 ## Welcome to the GEMIBRA Project!
 This digital platform is dedicated to aggregating public whole-genome sequencing (WGS) data from mycobacteria isolated in Brazil. Our goal is to promote research and support precision public health actions focused on health surveillance.
