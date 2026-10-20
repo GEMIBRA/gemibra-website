@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://gemibra.github.io/gemibra-website/pt/</loc>
+        <lastmod>2026-10-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gemibra.github.io/gemibra-website/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gemibra.github.io/gemibra-website/en/"/>
+    </url>
+    <url>
+        <loc>https://gemibra.github.io/gemibra-website/pt/data/</loc>
+        <lastmod>2026-10-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gemibra.github.io/gemibra-website/pt/data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gemibra.github.io/gemibra-website/en/data/"/>
+    </url>
+    <url>
+        <loc>https://gemibra.github.io/gemibra-website/en/</loc>
+        <lastmod>2026-10-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gemibra.github.io/gemibra-website/en/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gemibra.github.io/gemibra-website/pt/"/>
+    </url>
+    <url>
+        <loc>https://gemibra.github.io/gemibra-website/en/data/</loc>
+        <lastmod>2026-10-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gemibra.github.io/gemibra-website/en/data/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gemibra.github.io/gemibra-website/pt/data/"/>
+    </url>
+</urlset>
