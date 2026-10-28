@@ -31,6 +31,12 @@ Nosso banco de dados fornece acesso público a genomas do CMTB e futuramente inc
 * **MNT**: Em andamento
 * ***M. leprae***: Em construção
 
+## Atualização sobre o desenvolvimento futuro do dashboard
+
+Confira o primeiro teste de desenvolvimento do dashboard GEMIBRA, que apresenta uma prévia das funcionalidades planejadas para as próximas versões da plataforma.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/lvVTvLIGnRs" title="Primeiro teste de desenvolvimento do dashboard GEMIBRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Fale conosco
 Se você deseja contribuir com o projeto ou tem dúvidas, envie-nos uma mensagem:  
 **E-mail**: projetogemibra@gmail.com

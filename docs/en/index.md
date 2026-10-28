@@ -31,6 +31,12 @@ Our database provides public access to MTBC genomes and will later include NTM a
 * **NTM**: In progress
 * ***M. leprae***: Under construction
 
+## Future dashboard development update
+
+Watch the first development test of the GEMIBRA dashboard, featuring a preview of the functionality planned for future versions of the platform.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/lvVTvLIGnRs" title="First development test of the GEMIBRA dashboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Contact us
 If you would like to contribute to the project or have any questions, send us a message:  
 **Email**: projetogemibra@gmail.com
